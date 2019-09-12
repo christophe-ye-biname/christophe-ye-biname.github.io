@@ -5,7 +5,7 @@ je n'ai encore aucune expérience
 
 [voici ma page] https://christophe-ye-biname.github.io
 
-mes hobby:
-*internet
-*sortir
-*netflix
+## mes hobby:
+internet
+sortir
+netflix
